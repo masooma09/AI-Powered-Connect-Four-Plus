@@ -1,4 +1,4 @@
-# Connect Four AI with Fog of War & Genetic Strategy 📊🧠
+# AI-Powered Connect Four Plus (Fog of War & Genetic Strategy) 📊🧠
 
 An AI-enhanced version of the classic Connect Four game built in Python using Pygame. Featuring multiple AI difficulty levels, an innovative Fog of War mode, and offline-trained Genetic AI strategies that help players consistently beat the AI when followed manually.
 
