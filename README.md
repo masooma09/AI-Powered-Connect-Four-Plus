@@ -6,7 +6,7 @@ An AI-enhanced version of the classic Connect Four game built in Python using Py
 
 ## 👥 Team Members
 - Masooma Hassan – 22K4749  
-- Muhammad Haris – 22K4752  
+- Muhammad Haris – 22K4752   [@Perister2904](https://github.com/Perister2904)  
 - Muhammad Abdullah – 22K4712
 
 ---
